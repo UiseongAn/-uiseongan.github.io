@@ -1,9 +1,4 @@
 ## About Me
-
-<!-- Profile Image -->
-<img src="img/Me.jpg" alt="Profile Photo of [Uiseong An]" width="150" style="border-radius:50%; margin-bottom:20px;">
-
-
 Hello! I am **[Uiseong An (안의성)]**, an undergraduate student studying *[Civil Engineering]* at **[Handong University]**. With a strong interest in academia, my goal is to become a professor specializing in **[Hydrology]**. I am currently focused on foundational studies in areas such as **[Hydrology]**.
 
 ### Academic Background
