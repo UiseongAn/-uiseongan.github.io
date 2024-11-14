@@ -1,21 +1,17 @@
-# about
+## About Me
 
-* hello world a
-* hello world a
-* hello world a
+Hello! I am **[Uiseong An (안의성)]**, an undergraduate student studying *[Civil Engineering]* at **[Handong University]**. With a strong interest in academia, my goal is to become a professor specializing in **[Hydrology]**. I am currently focused on foundational studies in areas such as **[Hydrology]**.
 
-법관이 중대한 심신상의 장해로 직무를 수행할 수 없을 때에는 법률이 정하는 바에 의하여 퇴직하게 할 수 있다. 타인의 범죄행위로 인하여 생명·신체에 대한 피해를 받은 국민은 법률이 정하는 바에 의하여 국가로부터 구조를 받을 수 있다.
+### Academic Background
+I am currently in my **[third year]** of undergraduate studies, I am gaining practical experience that complements my academic studies.
 
-행정권은 대통령을 수반으로 하는 정부에 속한다. 국가의 세입·세출의 결산, 국가 및 법률이 정한 단체의 회계검사와 행정기관 및 공무원의 직무에 관한 감찰을 하기 위하여 대통령 소속하에 감사원을 둔다.
+### Education
+- **[Handong University]** — Bachelor of Science in *[Civil Engineering]*
+  - [February, 2022] - Present
 
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
-| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 |
+### Future Goals
+I am passionate about making meaningful contributions to the field through both research and education. My ambition is to prepare for an academic career that combines impactful research with inspiring teaching.
 
-```python
-print('helllo world test')
-for i in range(10):
-    print(i)
-```
+### Contact
+Feel free to reach out for discussions on research opportunities at [UiseongAn@gmail.com](mailto:UiseongAn@gmail.com).
+
