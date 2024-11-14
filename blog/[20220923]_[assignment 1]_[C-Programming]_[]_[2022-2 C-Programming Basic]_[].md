@@ -1,6 +1,6 @@
 ### C-Programming assignment 1
 
--   Q1
+- Q1
     ```c
     #include <stdio.h>
 
@@ -14,7 +14,7 @@
     }
     ```
 
--   Q2
+- Q2
     ```c
     #include <stdio.h>
     // 안의성 / 2022 / 9 / 23
